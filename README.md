@@ -61,10 +61,6 @@ You can set the `poll_interval` parameter in the `track_gas_price(poll_interval)
 
 Feel free to contribute by opening issues or submitting pull requests. All contributions are welcome!
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Credits
 
 Created and maintained by [TreeCityWes](https://github.com/TreeCityWes).
