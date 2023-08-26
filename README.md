@@ -1,19 +1,5 @@
 # Coinbase Base Layer-2 Gas Fee Monitor by TreeCityWes
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Contribution](#contribution)
-- [License](#license)
-- [Credits](#credits)
-- [Disclaimer](#disclaimer)
-- [Contact](#contact)
-
 ## Overview
 
 The Coinbase Base Layer-2 Gas Fee Monitor is a simple Python script to track real-time Ethereum gas fees on Coinbase's base layer. It utilizes Web3.py and an QuickNode URL to fetch the current gas price and base fee per gas (if EIP-1559 is supported). This information is displayed on the console with a time-stamp.
